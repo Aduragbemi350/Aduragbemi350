@@ -1,2 +1,4 @@
 ### Hi there 👋
-My name is Aduragbemi Soladoye. I'm a B.Sc undergraduate in the field of computer science. Professionally, i'm skilled as a web developer and a mobile engineer ( which makes me have basic knowledge in software engineering ).
+I’m Aduragbemi Soladoye, an extremely enthusiastic B.Sc undergraduate in the study of computer science. Concrete from my devotion to technology, I can confidently cover web development and mobile engineering spaces, making me to have little experience in software engineering.
+
+I am on a thoroughfare of mastering the trade of developing web applications which undoubtedly, consists of a sort of creativity and technicality that help a lot in creating user intuitive and visual appealing applications.
