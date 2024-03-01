@@ -24,6 +24,3 @@ I am on a thoroughfare of mastering the trade of developing web applications whi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aduragbemi350)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Projects, Examples and Gifs</h3>
-
-<h3>Social Media Pages</h3>
